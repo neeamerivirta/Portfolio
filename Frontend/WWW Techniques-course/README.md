@@ -17,3 +17,5 @@ https://homepages.tuni.fi/neea.merivirta/Lilja/lilja.html
 # Project work
 
 https://homepages.tuni.fi/neea.merivirta/projekti/portfolio-merivirta.html
+
+There are some bugs in the work
