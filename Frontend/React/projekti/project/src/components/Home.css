@@ -1,0 +1,84 @@
+/*Home.jsx tiedoston CSS-tiedosto*/
+.task-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.task-box {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  background-color: #cfcfcf;
+}
+
+.task-box.active {
+  background-color: #cfcfcf;
+}
+
+.task-box.inactive {
+  background-color: #ffd1d1;
+}
+
+.task-box input {
+  margin-right: 10px;
+}
+
+.task-box button {
+  margin-left: 10px;
+}
+
+label {
+  font-weight: bold;
+}
+
+button {
+  text-align: center;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.button-container button {
+  margin-left: 10px;
+}
+
+.input-container input[type="date"] {
+  margin-left: 40px;
+  width: 160px;
+}
+
+.input-container input[type="checkbox"] {
+  margin-left: 40px;
+  width: 160px;
+  height: 25px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: -20px;
+}
+
+.input-container label {
+  width: 150px;
+  margin-right: 10px;
+}
+
+.task-box.active {
+  background-color: rgb(255, 71, 71);
+}
+
+.task-box.inactive {
+  background-color: rgb(97, 184, 97);
+}
