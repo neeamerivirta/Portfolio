@@ -49,9 +49,7 @@ npm run dev --workspace=frontend
 npm run dev --workspace=backend
 ```
 
-## Screenshots and screencast link
-
-- Screencast link: https://youtu.be/9z9k51QpDs4
+## Screenshots
 
 - Screenshots from the app
 
