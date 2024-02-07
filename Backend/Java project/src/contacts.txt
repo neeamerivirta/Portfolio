@@ -1,0 +1,14 @@
+| personal id  | 010100       
+| first name   | Anna        
+| last name    | Puu         
+| phone number | 09762 976      
+| address      | Kuntokatu 99          
+| e-mail       | anna@gmail.com            
+
+| personal id  | 010100       
+| first name   | Anna        
+| last name    | Puu         
+| phone number | 09762 976      
+| address      | Kuntokatu 99          
+| e-mail       | anna@gmail.com            
+
