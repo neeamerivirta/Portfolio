@@ -1,0 +1,17 @@
+GET  http://localhost:8080/api/word_pairs/
+
+This is a GET request to fetch all word pairs from the server
+###
+GET  http://localhost:8080/api/word_pairs/1
+
+This is a GET request to fetch a specific word pair with an ID of 1 from the server
+
+###
+DELETE http://localhost:8080/api/word_pairs/6
+
+This is a DELETE request to remove the word pair with ID 6 from the server
+
+###
+POST http://localhost:8080/api/word_pairs/6
+
+This appears to be a malformed request for creating a new word pair with ID 6
