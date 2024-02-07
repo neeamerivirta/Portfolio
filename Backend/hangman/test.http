@@ -1,0 +1,27 @@
+# This code is used for testing the backend API
+
+# Send a GET request to the API endpoint at http://127.0.0.1:5000
+GET http://127.0.0.1:5000
+
+
+###
+# Send a POST request to the API endpoint at https://hangman-41az.onrender.com/highscores
+POST https://hangman-41az.onrender.com/highscores
+
+###
+# Send a GET request to the highscores endpoint at http://127.0.0.1:5000/highscores
+GET http://127.0.0.1:5000/highscores
+
+###
+# Send a GET request to the highscores endpoint for a specific ID at http://127.0.0.1:5000/highscores/3
+GET http://127.0.0.1:5000/highscores/3
+
+###
+# Send a DELETE request to the highscores endpoint for a specific ID at http://127.0.0.1:5000/highscores/3
+DELETE http://127.0.0.1:5000/highscores/3
+
+###
+POST http://127.0.0.1:5000/highscores
+Content-type: application/json
+
+{ "id": "7", "score":"1234.221" , "name": "Tina Toi" }

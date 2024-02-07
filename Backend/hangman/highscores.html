@@ -1,0 +1,63 @@
+<!-- This code displays the high scores webpage for a Hangman game. -->
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Hangman High Scores</title>
+<!-- Link to the latest compiled and minified Bootstrap CSS library -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- Script tag to import the latest compiled Bootstrap JavaScript library -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    
+</head>
+<!-- Here are the body for the webpage-->
+<body>
+<!-- A container for the Hangman High Scores section with a dark background and white text -->
+<div class="container p-5 my-5 bg-dark text-white">
+<!-- A header for the Hangman High Scores section -->
+<h1>Hangman High Scores</h1>
+    
+<!-- A nested container with some custom CSS styles to modify the appearance of the table -->
+<div class="container">
+
+<!-- CSS styles to increase padding and font size of the table cells -->
+<style>
+  th, td {
+    padding: 10px; /* Increase padding to add more space between cells */
+  }
+  th {
+    font-size: 25px; /* Increase font size for table headers */
+  }
+</style>
+
+<table>
+<!-- The table header contains the column titles -->
+<thead>
+  <tr>
+    <th>ID</th>
+    <th>Score</th>
+    <th>Name</th>
+  </tr>
+</thead>
+
+<tbody>
+<!-- A loop iterates over the scores data and generates a row for each score -->
+{% for id, score, name in scores %}
+<tr>
+<!-- The ID of the score -->
+  <td>{{ id }}</td>
+  <!-- The score value -->
+  <td>{{ score }}</td>
+  <!-- The name of the player who achieved the score -->
+  <td>{{ name }}</td>
+</tr>
+{% endfor %}
+
+</tbody>
+</table>
+
+</div>
+
+</body>
+</html>
