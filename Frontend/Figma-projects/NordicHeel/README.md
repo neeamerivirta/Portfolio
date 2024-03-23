@@ -8,7 +8,7 @@
 
 - I have personally designed and edited the banner video for the company. The video can be found among the materials. I also had the honor of shooting material for the website, including the shoe images for the product categories, which are my own creations.
 
-- Within the directory, you'll find our marketing plan, which was also part of this project work. The marketing plan is available in both PDF and PowerPoint formats, both in Finnish.
+- Within the directory, you'll find our marketing plan, which was also part of this project work. The marketing plan PDF is available in Finnish.
 
 ## Link to the NordicHeel-prototype
 
