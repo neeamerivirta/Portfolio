@@ -22,6 +22,6 @@ Welcome to my GitHub repository! Here you'll find a collection of diverse coding
 
 ![Figma project - NordicHeel](/portfolio/figma.png "Figma project - NordicHeel")
 
-![Figma project - NordicHeel](/portfolio/figma2.png "Figma project - NordicHeel")
+![Figma project - NordicHeel](/figma2.png "Figma project - NordicHeel")
 
 ### Author ©Neea Merivirta
