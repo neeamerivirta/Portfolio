@@ -4,7 +4,7 @@ Welcome to my GitHub repository! Here you'll find a collection of diverse coding
 
 ## Project folders
 
-- Frontend: React, WWW-techniques, css, scss...
+- Frontend: React, Figma-works, WWW-techniques, css, scss...
 - Backend: Java, Python, Node.js...
 - Fullstack: Node.js, JSON, MySQL...
 
@@ -18,6 +18,10 @@ Welcome to my GitHub repository! Here you'll find a collection of diverse coding
 
 ## Screenshots
 
-- Screenshots from the projects
+- Screenshots from my first Figma project
+
+![Figma project - NordicHeel](/portfolio/figma.png "Figma project - NordicHeel")
+
+![Figma project - NordicHeel](/portfolio/figma2.png "Figma project - NordicHeel")
 
 ### Author ©Neea Merivirta
