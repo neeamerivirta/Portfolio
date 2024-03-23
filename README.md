@@ -20,8 +20,8 @@ Welcome to my GitHub repository! Here you'll find a collection of diverse coding
 
 - Screenshots from my first Figma project
 
-![Figma project - NordicHeel](/portfolio/figma.png "Figma project - NordicHeel")
+<img src="./figma.png" alt="Figma project - NordicHeel" width="50%" />
 
-![Figma project - NordicHeel](/figma2.png "Figma project - NordicHeel")
+<img src="./figma2.png" alt="Figma project - NordicHeel" width="50%" />
 
 ### Author ©Neea Merivirta
