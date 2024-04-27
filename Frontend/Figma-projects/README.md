@@ -3,7 +3,7 @@
 ## Figma projects
 
 - Here you'll find all my Figma projects
-- Ssome are school assignments and some are personal projects made in my free time
+- Some are school assignments and some are personal projects made in my free time
 - Each project has its own directory where you can find more detailed contents and information about the project
 
 ## NordicHeel-project
