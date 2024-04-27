@@ -29,8 +29,8 @@
 
 - Screenshots from the Niitty2- project
   
-<img src="./niitty2.png" alt="Niitty2 project - Frontpage" height="50%" />
+<img src="./niitty2.png" alt="Niitty2 project - Frontpage" height="50%" width="50%" />
 
-<img src="./niitty2-2.png" alt="Niitty2 project - Material page" height="50%" />
+<img src="./niitty2-2.png" alt="Niitty2 project - Material page" height="50%" width="50%" />
 
 ### Author ©Neea Merivirta
