@@ -16,6 +16,8 @@
 - Niitty2 -project project was implemented at school. The Niitty2 project team hoped to give their website a new visual identity. The purpose of the work was to design a new look for the website and to solve how the material would be made available to the user.
 - The project's pages were not user-friendly, and all the material was a bit jumbled on the pages.
 - The project was carried out as a pair work. In this project, I designed the mobile version of my pages, and my partner implemented the layout of the website. The project was planned in Figma.
+- Link to the Figma prototype
+- https://www.figma.com/file/zM93nncqu1sjrEn311q6m0/Mobiiliproto?type=design&node-id=53%3A2&mode=design&t=lYmrCNDeTnVjssTe-1
 
 ## More projects coming
 
