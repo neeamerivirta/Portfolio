@@ -41,6 +41,7 @@
 <img src="./niitty2-2.png" alt="Niitty2 project - Material page" height="50%" width="50%" />
 
 - Screenshots from Portfolio Merivirta Visuals -project
-  <img src="./portfolio-1.png" alt="Portfolio project" height="50%" width="50%" />
+
+<img src="./portfolio-1.png" alt="Portfolio project"  width="50%" />
 
 ### Author ©Neea Merivirta
