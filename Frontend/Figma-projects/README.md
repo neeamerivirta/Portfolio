@@ -19,6 +19,11 @@
 - Link to the Figma prototype
 - https://www.figma.com/file/zM93nncqu1sjrEn311q6m0/Mobiiliproto?type=design&node-id=53%3A2&mode=design&t=lYmrCNDeTnVjssTe-1
 
+## Portfolio Merivirta Visuals -project
+
+- This was my personal project.
+- I created a website called Merivirta Visuals. The purpose of the project was to create a simple website where clients could find the necessary information. I occasionally do photography gigs, so I decided to design a visual look for the website using Figma.
+
 ## More projects coming
 
 ## Screenshots
@@ -30,7 +35,7 @@
 <img src="./figma2.png" alt="Figma project - NordicHeel" width="50%" />
 
 - Screenshots from the Niitty2- project
-  
+
 <img src="./niitty2.png" alt="Niitty2 project - Frontpage" height="50%" width="50%" />
 
 <img src="./niitty2-2.png" alt="Niitty2 project - Material page" height="50%" width="50%" />
