@@ -42,6 +42,6 @@
 
 - Screenshots from Portfolio Merivirta Visuals -project
 
-<img src="./portfolio-1.png" alt="Portfolio project"  width="50%" />
+<img src="./portfolio-1.png" alt="Portfolio project" />
 
 ### Author ©Neea Merivirta
