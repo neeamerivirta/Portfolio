@@ -15,6 +15,6 @@
 
 <img src="./figma-pages-1.png" alt="Figma project - Portfolio" width="50%" />
 
-<img src="./figma-pages-2.png" alt="Figma project - Portfolio" width="50%" />
+<img src="./figma-page-1.png" alt="Figma project - Portfolio" width="50%" />
 
 ### Author ©Neea Merivirta
