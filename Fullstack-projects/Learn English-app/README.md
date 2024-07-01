@@ -1,5 +1,7 @@
 # Learn English! -app
 
+## Note! The database used in the project is no longer available. TAMK's database was closed in the spring of 2024.
+
 ## Project title
 
 This project creates a "Learn English!"- app designed to help children learn English words and their translations. The application has two main user groups: teacher or parent (admin) and child (user).
