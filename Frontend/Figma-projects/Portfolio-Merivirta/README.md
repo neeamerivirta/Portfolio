@@ -1,5 +1,9 @@
 # Portfolio - Neea Merivirta
 
+## Updates
+
+- Update August 2024. Improved image browsing.
+
 ## Portfolio - Merivirta Visuals
 
 - This is my own project.
